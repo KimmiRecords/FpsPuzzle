@@ -1,0 +1,3 @@
+Name,HitPoints,WalkSpeed,AttackDamage
+BP_Enemy,100,150,120
+BP_EnemyGoblin,50,300,60
