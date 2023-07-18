@@ -1,3 +1,4 @@
-Name,HitPoints,WalkSpeed,AttackDamage
-BP_Enemy,100,150,120
-BP_EnemyGoblin,50,300,60
+,HitPoints,WalkingSpeed,AtkDamage
+BP_Enemy,160,180,140
+BP_EnemyGoblin,80,320,70
+BP_EnemySoldier,90,180,30
